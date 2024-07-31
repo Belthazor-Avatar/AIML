@@ -1,7 +1,6 @@
 numpy
 pandas
 scipy
-scikit_learn
 matplotlib
 seaborn
 statsmodels
