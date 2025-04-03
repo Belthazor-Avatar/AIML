@@ -27,3 +27,16 @@ torchvision
 tensorflow_docs
 notebook
 tensorflow-federated
+speechrecognition
+gym~=0.25.2
+langchain
+scikit-learn~=1.5.2
+imageio~=2.36.1
+ipython~=8.29.0
+tensorflow-datasets~=4.9.7
+pytz~=2024.2
+opencv-python
+langchain_community
+tiktoken
+chromadb
+protobuf
